@@ -1,0 +1,6 @@
+framework module UniautoCore {
+  umbrella header "UniautoCore.h"
+
+  export *
+  module * { export * }
+}
